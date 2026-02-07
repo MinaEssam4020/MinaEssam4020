@@ -1,5 +1,5 @@
 # Hi, I'm Mina 👋
-I’m a Data Engineer with a passion for the entire data lifecycle—from building robust extraction pipelines to uncovering actionable insights through Data Science.
+I’m a Data Engineer with a passion for the entire data lifecycle, from building robust extraction pipelines to uncovering actionable insights through Data Science.
 
 I thrive on turning "noisy" data into clean, structured assets that drive decision-making.
 
