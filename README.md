@@ -3,6 +3,7 @@ I’m a Data Engineer with a passion for the entire data lifecycle—from buildi
 
 I thrive on turning "noisy" data into clean, structured assets that drive decision-making.
 
+_________________________
 
 What I Do
 
@@ -12,7 +13,7 @@ Analytics & Science: Bridging the gap between raw data and insights using Python
 
 Integrity First: My focus is always on data consistency and high-quality infrastructure.
 
-
+_________________________
 
 Tech Stack
 
@@ -23,6 +24,8 @@ Web Automation: Playwright, Selenium, BeautifulSoup, urllib
 Data Science & NLP: Pandas, spaCy, scikit-learn, NLTK, libpostal
 
 Enrichment & APIs: Google Maps API, Geocoding, Search APIs
+
+_________________________
 
 
 reach me: linkedin.com/in/mina-essam-7a9174211
