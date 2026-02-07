@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Mina 👋
+I’m a Data Engineer with a passion for the entire data lifecycle—from building robust extraction pipelines to uncovering actionable insights through Data Science.
 
-<!--
-**MinaEssam4020/MinaEssam4020** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I thrive on turning "noisy" data into clean, structured assets that drive decision-making.
 
-Here are some ideas to get you started:
+What I Do
+Data Engineering: Building automated scrapers (Playwright, Selenium) and NLP-driven pipelines to handle complex, messy data.
+Analytics & Science: Bridging the gap between raw data and insights using Python and SQL.
+Integrity First: My focus is always on data consistency and high-quality infrastructure.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Tech Stack
+Languages & Databases: Python, SQL
+Web Automation: Playwright, Selenium, BeautifulSoup, urllib
+Data Science & NLP: Pandas, spaCy, scikit-learn, NLTK, libpostal
+Enrichment & APIs: Google Maps API, Geocoding, Search APIs
+
+reach me: linkedin.com/in/mina-essam-7a9174211
